@@ -1,9 +1,9 @@
 # Welcome To Taka's GitHub
 
-|Visiter|<img src="https://gorgeous-arrow-quarter.glitch.me/counter.svg" width="90%">|
+|Visiter|<img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/visiter.svg" width="90%">|
 |----|:----|
 
-|repos|<img src="https://gorgeous-arrow-quarter.glitch.me/githubstatus.svg" height="80%" width="90%">|
+|repos|<img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/github.svg" height="80%" width="90%">|
 |----|:----|
 
 
