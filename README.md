@@ -1,10 +1,9 @@
 # Welcome To Taka's GitHub
 
-|Visiter|<img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/visiter.svg" width="90%">|
-|----|:----|
-
-|repos|<img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/github.svg" height="80%" width="90%">|
-|----|:----|
+| Information ||
+|:----:|:----|
+|Visiter|<img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/visiter.svg?color=tomato" width="100%">|
+|Most Used Languages|<img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/github.svg?account=taka1156" height="90%" width="100%">|
 
 
 - <img src="https://user-images.githubusercontent.com/47517002/88131924-1530f480-cc19-11ea-9fa0-a818046b7346.png" height="3%" width="3%">
