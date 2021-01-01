@@ -12,7 +12,7 @@
                 Visiter
             </td>
             <td>
-                <img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/visiter.svg?color=tomato" width="100%">
+                <img src="https://taka1156-backend.glitch.me/api/v1/visiter.svg?color=tomato" width="100%">
             </td>
         </tr>
         <tr>
@@ -20,7 +20,7 @@
                 Most Used Languages
             </td>
             <td>
-                <img src="https://gorgeous-arrow-quarter.glitch.me/api/v1/github.svg?account=taka1156&bgcolor=none" height="90%" width="100%">
+                <img src="https://taka1156-backend.glitch.me/api/v1/github.svg?account=taka1156&bgcolor=none" height="90%" width="100%">
             </td>
         </tr>
     <tbody>
