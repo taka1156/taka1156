@@ -40,9 +40,6 @@
             <td>
                 <a href="https://www.taka1156.site">https://www.taka1156.site</a>
             </td>
-            <td>
-             <img src="https://img.shields.io/github/actions/workflow/status/taka1156/nuxt-portoflio/main.yml?branch=master">
-            </td>
         </tr>
         <tr>
             <th>
@@ -50,9 +47,6 @@
             </th>
             <td>
                 <a href="https://blog.taka1156.site">https://blog.taka1156.site</a>
-            </td>
-            <td>
-                 <img src="https://img.shields.io/github/actions/workflow/status/taka1156/nuxt-blog/main.yml?branch=master">
             </td>
         </tr>
     <tbody>
