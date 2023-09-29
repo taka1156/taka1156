@@ -1,4 +1,4 @@
-# Welcome To Taka's GitHub
+# Hi, I'm Taka 💻
 
 <table>
     <thead>
