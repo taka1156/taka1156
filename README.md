@@ -52,5 +52,6 @@
     <tbody>
 </table><br>
 
-**[Firebase Status Dashboard](https://status.firebase.google.com/)
-[@taka_1156 - twitter](https://twitter.com/taka_1156)**
+**[Firebase Status Dashboard](https://status.firebase.google.com/)**
+
+**[@taka_1156 - twitter](https://twitter.com/taka_1156)**
