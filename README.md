@@ -11,4 +11,8 @@
 <a href="https://blog.taka1156.site">https://blog.taka1156.site</a>
 
 ## SNS
-**[@taka_1156 - twitter](https://twitter.com/taka_1156)**
+### X
+**[@taka_1156](https://twitter.com/taka_1156)**
+
+### Qiita
+**[@taka_1156]**(https://qiita.com/taka_1156)
