@@ -4,10 +4,10 @@
 <img src="https://taka1156-backend.glitch.me/api/v1/github.svg?account=taka1156&bgcolor=none" height="90%" width="100%">
 
 ## link
-### ポートフォリオサイト
+### Portfolio
 <a href="https://www.taka1156.site">https://www.taka1156.site</a>
 
-### ブログ
+### Blog
 <a href="https://blog.taka1156.site">https://blog.taka1156.site</a>
 
 ## SNS
