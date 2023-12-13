@@ -15,4 +15,4 @@
 **[@taka_1156](https://twitter.com/taka_1156)**
 
 ### Qiita
-**[@taka_1156]**(https://qiita.com/taka_1156)
+**[@taka_1156](https://qiita.com/taka_1156)**
