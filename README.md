@@ -1,57 +1,14 @@
-# Hi, I'm Taka 💻
+# Hi, I'm Taka 
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">Information</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                Visiter
-            </td>
-            <td>
-                <img src="https://taka1156-backend.glitch.me/api/v1/visiter.svg?color=tomato" width="100%">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Most Used Languages
-            </td>
-            <td>
-                <img src="https://taka1156-backend.glitch.me/api/v1/github.svg?account=taka1156&bgcolor=none" height="90%" width="100%">
-            </td>
-        </tr>
-    <tbody>
-</table>
+<img src="https://taka1156-backend.glitch.me/api/v1/visiter.svg?color=tomato" width="100%">
+<img src="https://taka1156-backend.glitch.me/api/v1/github.svg?account=taka1156&bgcolor=none" height="90%" width="100%">
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="3">link</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>
-                ポートフォリオサイト
-            </th>
-            <td>
-                <a href="https://www.taka1156.site">https://www.taka1156.site</a>
-            </td>
-        </tr>
-        <tr>
-            <th>
-                ブログ
-            </th>
-            <td>
-                <a href="https://blog.taka1156.site">https://blog.taka1156.site</a>
-            </td>
-        </tr>
-    <tbody>
-</table><br>
+## link
+### ポートフォリオサイト
+<a href="https://www.taka1156.site">https://www.taka1156.site</a>
 
-**[Firebase Status Dashboard](https://status.firebase.google.com/)**
+### ブログ
+<a href="https://blog.taka1156.site">https://blog.taka1156.site</a>
 
+## SNS
 **[@taka_1156 - twitter](https://twitter.com/taka_1156)**
