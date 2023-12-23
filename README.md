@@ -1,7 +1,7 @@
 # Hi, I'm Taka 
 
-<img src="https://taka1156-backend.glitch.me/api/v1/visiter.svg?color=tomato" width="100%">
-<img src="https://taka1156-backend.glitch.me/api/v1/github.svg?account=taka1156&bgcolor=none" height="90%" width="100%">
+<img src="https://taka1156-backend.glitch.me/api/v1/visiter.svg?color=tomato" width="50%">
+<img src="https://taka1156-backend.glitch.me/api/v1/github.svg?account=taka1156&bgcolor=none" height="90%" width="50%">
 
 ## link
 ### Portfolio
