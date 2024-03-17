@@ -8,7 +8,12 @@
 <a href="https://www.taka1156.site">https://www.taka1156.site</a>
 
 ### Blog
-<a href="https://blog.taka1156.site">https://blog.taka1156.site</a>
+
+https://blog.taka1156.site
+
+migration in progress(Next)
+https://taka1156-next-test.netlify.app
+
 
 ## SNS
 ### X
