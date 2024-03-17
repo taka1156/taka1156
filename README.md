@@ -11,7 +11,7 @@
 
 https://blog.taka1156.site
 
-migration in progress(Next)
+migration in progress(Next)  
 https://taka1156-next-test.netlify.app
 
 
