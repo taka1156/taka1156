@@ -22,3 +22,12 @@ https://taka1156-next-test.netlify.app
 
 ### Qiita
 **[@taka_1156](https://qiita.com/taka_1156)**
+
+### Zenn
+**[@taka_1156](https://zenn.dev/taka1156)**
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka1156&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taka1156&theme=dracula&langs_count=15)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka1156&theme=dracula&langs_count=15)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taka1156&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taka1156&theme=dracula)
