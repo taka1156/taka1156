@@ -13,15 +13,10 @@
 
 ## link
 ### Portfolio
-<a href="https://www.taka1156.site">https://www.taka1156.site</a>
+https://www.taka1156.site
 
 ### Blog
-
 https://blog.taka1156.site
-
-migration in progress(Next)  
-https://taka1156-next-test.netlify.app
-
 
 ## SNS
 ### X
