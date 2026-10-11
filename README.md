@@ -18,6 +18,7 @@
 [![X](https://img.shields.io/badge/X-@taka__1156-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/taka_1156)
 [![Qiita](https://img.shields.io/badge/Qiita-@taka__1156-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/taka_1156)
 [![Zenn](https://img.shields.io/badge/Zenn-taka1156-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/taka1156)
+[![Book Meter](https://img.shields.io/badge/Book_Meter-taka1156-64BC4B?style=flat-square&logo=bookmeter&logoColor=white)](https://bookmeter.com/users/1726096/books/reading)
 
 </div>
 
