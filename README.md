@@ -30,7 +30,7 @@
 
 | Repository | About | Language | Updated |
 |---|---|---|---|
-| [portfolio](https://github.com/taka1156/portfolio) | Personal portfolio site | ![](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/last-commit/taka1156/portfolio?style=flat-square&label=) |
+| [nuxt-portfolio](https://github.com/taka1156/nuxt-portfolio) | Personal portfolio site | ![](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![](https://img.shields.io/github/last-commit/taka1156/nuxt-portfolio?style=flat-square&label=) |
 | [webspaces](https://github.com/taka1156/webspaces) | Personal blog built with Next.js (Cloudflare Pages) | ![](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/last-commit/taka1156/webspaces?style=flat-square&label=) |
 | [ogp-card](https://github.com/taka1156/ogp-card) | Web tool for working with OGP cards | ![](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/last-commit/taka1156/ogp-card?style=flat-square&label=) |
 | [rss-decks-extension](https://github.com/taka1156/rss-decks-extension) | Lightweight Chrome extension to view multiple RSS/Atom feeds in one place | ![](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![](https://img.shields.io/github/last-commit/taka1156/rss-decks-extension?style=flat-square&label=) |
