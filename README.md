@@ -74,6 +74,7 @@
 
 ## 📊 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=taka1156&theme=github-dark-blue&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taka1156&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taka1156&theme=dracula&langs_count=15)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taka1156&theme=dracula&langs_count=15)
